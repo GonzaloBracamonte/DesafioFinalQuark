@@ -19,5 +19,20 @@ namespace Desafio_Final_Quark___Biblioteca
         public int Id { get => id; set => id = value; }
         public string EjemplaresRetirados { get => ejemplaresRetirados; set => ejemplaresRetirados = value; }
         public int CantidadMaximaDeRetiro { get => cantidadMaximaDeRetiro; set => cantidadMaximaDeRetiro = value; }
+    
+        public bool CupoDisponible()
+        {
+            return false;
+        }
+
+        public void PrestamoEjemplar()
+        {
+
+        }
+
+        public void DevolverEjemplar()
+        {
+
+        }
     }
 }

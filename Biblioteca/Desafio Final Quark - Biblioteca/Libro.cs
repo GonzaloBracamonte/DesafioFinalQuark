@@ -17,7 +17,26 @@ namespace Desafio_Final_Quark___Biblioteca
         public int ISBN1 { get => ISBN; set => ISBN = value; }
         public string Autor { get => autor; set => autor = value; }
         public int EjemplaresPrestamo { get => ejemplaresPrestamo; set => ejemplaresPrestamo = value; }
-    
+        
+        public void AgregarEjemplar()
+        {
+
+        }
+
+        public bool EjemplaresDisponibles()
+        {
+            return false;
+        }
+
+        public void PrestarEjemplar()
+        {
+
+        }
+
+        public void ReingresoEjemplar()
+        {
+
+        }
         
     }
 }
