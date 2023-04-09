@@ -32,8 +32,8 @@ namespace Desafio_Final_Quark___Biblioteca
   
         public bool EjemplaresDisponibles(Ejemplar ejemplar)
         {
-            
-            if(ejemplar > 0)
+            cantidad = int.Parse(ejemplar);
+            if(cantidad > 0)
             {
                 Console.WriteLine("Se puede retirar un ejemplar");
                 return true;
