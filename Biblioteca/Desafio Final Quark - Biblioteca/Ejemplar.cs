@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Desafio_Final_Quark___Biblioteca
 {
-    internal class Ejemplar
+    internal class Ejemplar:Libro
     {
         private int numeroDeEdicion;
         private int ubicacion;

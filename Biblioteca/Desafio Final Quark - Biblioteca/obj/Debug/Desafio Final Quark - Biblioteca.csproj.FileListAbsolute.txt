@@ -1,0 +1,10 @@
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio_Final_Quark___Biblioteca.Properties.Resources.resources
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.csproj.GenerateResource.cache
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\bin\Debug\Desafio Final Quark - Biblioteca.exe.config
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\bin\Debug\Desafio Final Quark - Biblioteca.exe
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\bin\Debug\Desafio Final Quark - Biblioteca.pdb
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.exe
+C:\Users\braca\Desktop\DesafioFinalQuark\Biblioteca\Desafio Final Quark - Biblioteca\obj\Debug\Desafio Final Quark - Biblioteca.pdb
